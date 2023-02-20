@@ -1,0 +1,1 @@
+procurar smp pelo diretório, nome do arquivo ou caminho
